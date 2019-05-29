@@ -1,0 +1,101 @@
+2018rank,City,State[c],2018estimate,2010Census,Change,2016 land area,2016 population density,Location,City Link
+1,New York City, New York,"8,398,748","8,175,133",+2.74%,301.5 sq mi,"28,317/sq mi",40°39′49′′N 73°56′19′′W,https://en.wikipedia.org/wiki/New_York_City
+2,Los Angeles, California,"3,990,456","3,792,621",+5.22%,468.7 sq mi,"8,484/sq mi",34°01′10′′N 118°24′39′′W,https://en.wikipedia.org/wiki/Los_Angeles
+3,Chicago, Illinois,"2,705,994","2,695,598",+0.39%,227.3 sq mi,"11,900/sq mi",41°50′15′′N 87°40′54′′W,https://en.wikipedia.org/wiki/Chicago
+4,Houston, Texas,"2,325,502","2,100,263",+10.72%,637.5 sq mi,"3,613/sq mi",29°47′12′′N 95°23′27′′W,https://en.wikipedia.org/wiki/Houston
+5,Phoenix, Arizona,"1,660,272","1,445,632",+14.85%,517.6 sq mi,"3,120/sq mi",33°34′20′′N 112°05′24′′W,"https://en.wikipedia.org/wiki/Phoenix,_Arizona"
+6,Philadelphia, Pennsylvania,"1,584,138","1,526,006",+3.81%,134.2 sq mi,"11,683/sq mi",40°00′34′′N 75°08′00′′W,https://en.wikipedia.org/wiki/Philadelphia
+7,San Antonio, Texas,"1,532,233","1,327,407",+15.43%,461.0 sq mi,"3,238/sq mi",29°28′21′′N 98°31′30′′W,https://en.wikipedia.org/wiki/San_Antonio
+8,San Diego, California,"1,425,976","1,307,402",+9.07%,325.2 sq mi,"4,325/sq mi",32°48′55′′N 117°08′06′′W,https://en.wikipedia.org/wiki/San_Diego
+9,Dallas, Texas,"1,345,047","1,197,816",+12.29%,340.9 sq mi,"3,866/sq mi",32°47′36′′N 96°45′59′′W,https://en.wikipedia.org/wiki/Dallas
+10,San Jose, California,"1,030,119","945,942",+8.90%,177.5 sq mi,"5,777/sq mi",37°17′48′′N 121°49′08′′W,"https://en.wikipedia.org/wiki/San_Jose,_California"
+11,Austin, Texas,"964,254","790,390",+22.00%,312.7 sq mi,"3,031/sq mi",30°18′14′′N 97°45′16′′W,"https://en.wikipedia.org/wiki/Austin,_Texas"
+12,Jacksonville, Florida,"903,889","821,784",+9.99%,747.4 sq mi,"1,178/sq mi",30°20′13′′N 81°39′42′′W,"https://en.wikipedia.org/wiki/Jacksonville,_Florida"
+13,Fort Worth, Texas,"895,008","741,206",+20.75%,342.9 sq mi,"2,491/sq mi",32°46′53′′N 97°20′48′′W,"https://en.wikipedia.org/wiki/Fort_Worth,_Texas"
+14,Columbus, Ohio,"892,533","787,033",+13.40%,218.5 sq mi,"3,936/sq mi",39°59′07′′N 82°59′05′′W,"https://en.wikipedia.org/wiki/Columbus,_Ohio"
+15,San Francisco, California,"883,305","805,235",+9.70%,46.9 sq mi,"18,569/sq mi",37°43′38′′N 123°01′56′′W,https://en.wikipedia.org/wiki/San_Francisco
+16,Charlotte, North Carolina,"872,498","731,424",+19.29%,305.4 sq mi,"2,757/sq mi",35°12′28′′N 80°49′52′′W,"https://en.wikipedia.org/wiki/Charlotte,_North_Carolina"
+17,Indianapolis, Indiana,"867,125","820,445",+5.69%,361.5 sq mi,"2,366/sq mi",39°46′36′′N 86°08′45′′W,https://en.wikipedia.org/wiki/Indianapolis
+18,Seattle, Washington,"744,955","608,660",+22.39%,83.8 sq mi,"8,405/sq mi",47°37′14′′N 122°21′03′′W,https://en.wikipedia.org/wiki/Seattle
+19,Denver, Colorado,"716,492","600,158",+19.38%,153.3 sq mi,"4,521/sq mi",39°45′43′′N 104°52′52′′W,https://en.wikipedia.org/wiki/Denver
+20,"Washington, D.C.", District of Columbia,"702,455","601,723",+16.74%,61.1 sq mi,"11,148/sq mi",38°54′15′′N 77°01′02′′W,"https://en.wikipedia.org/wiki/Washington,_D.C."
+21,Boston, Massachusetts,"694,583","617,594",+12.47%,48.3 sq mi,"13,938/sq mi",42°19′55′′N 71°01′13′′W,https://en.wikipedia.org/wiki/Boston
+22,El Paso, Texas,"682,669","649,121",+5.17%,256.8 sq mi,"2,660/sq mi",31°50′54′′N 106°25′37′′W,"https://en.wikipedia.org/wiki/El_Paso,_Texas"
+23,Detroit, Michigan,"672,662","713,777",−5.76%,138.8 sq mi,"4,847/sq mi",42°22′59′′N 83°06′08′′W,https://en.wikipedia.org/wiki/Detroit
+24,Nashville, Tennessee,"669,053","601,222",+11.28%,475.9 sq mi,"1,388/sq mi",36°10′18′′N 86°47′06′′W,"https://en.wikipedia.org/wiki/Nashville,_Tennessee"
+25,Portland, Oregon,"653,115","583,776",+11.88%,133.5 sq mi,"4,793/sq mi",45°32′13′′N 122°39′00′′W,"https://en.wikipedia.org/wiki/Portland,_Oregon"
+26,Memphis, Tennessee,"650,618","646,889",+0.58%,317.4 sq mi,"2,056/sq mi",35°06′10′′N 89°58′39′′W,"https://en.wikipedia.org/wiki/Memphis,_Tennessee"
+27,Oklahoma City, Oklahoma,"649,021","579,999",+11.90%,606.3 sq mi,"1,053/sq mi",35°28′02′′N 97°30′49′′W,https://en.wikipedia.org/wiki/Oklahoma_City
+28,Las Vegas, Nevada,"644,644","583,756",+10.43%,134.4 sq mi,"4,709/sq mi",36°13′45′′N 115°15′36′′W,https://en.wikipedia.org/wiki/Las_Vegas
+29,Louisville, Kentucky,"620,118","597,337",+3.81%,263.5 sq mi,"2,339/sq mi",38°09′55′′N 85°38′51′′W,"https://en.wikipedia.org/wiki/Louisville,_Kentucky"
+30,Baltimore, Maryland,"602,495","620,961",−2.97%,80.9 sq mi,"7,598/sq mi",39°18′00′′N 76°36′38′′W,https://en.wikipedia.org/wiki/Baltimore
+31,Milwaukee, Wisconsin,"592,025","594,833",−0.47%,96.2 sq mi,"6,186/sq mi",43°03′48′′N 87°58′00′′W,https://en.wikipedia.org/wiki/Milwaukee
+32,Albuquerque, New Mexico,"560,218","545,852",+2.63%,188.2 sq mi,"2,972/sq mi",35°06′20′′N 106°38′51′′W,"https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico"
+33,Tucson, Arizona,"545,975","520,116",+4.97%,230.8 sq mi,"2,299/sq mi",32°09′11′′N 110°52′14′′W,"https://en.wikipedia.org/wiki/Tucson,_Arizona"
+34,Fresno, California,"530,093","494,665",+7.16%,114.4 sq mi,"4,563/sq mi",36°47′01′′N 119°47′36′′W,"https://en.wikipedia.org/wiki/Fresno,_California"
+35,Mesa, Arizona,"508,958","439,041",+15.92%,137.9 sq mi,"3,514/sq mi",33°24′07′′N 111°43′03′′W,"https://en.wikipedia.org/wiki/Mesa,_Arizona"
+36,Sacramento, California,"508,529","466,488",+9.01%,97.9 sq mi,"5,059/sq mi",38°34′00′′N 121°28′07′′W,"https://en.wikipedia.org/wiki/Sacramento,_California"
+37,Atlanta, Georgia,"498,044","420,003",+18.58%,133.5 sq mi,"3,539/sq mi",33°45′46′′N 84°25′22′′W,https://en.wikipedia.org/wiki/Atlanta
+38,Kansas City, Missouri,"491,918","459,787",+6.99%,315.0 sq mi,"1,528/sq mi",39°07′30′′N 94°33′04′′W,"https://en.wikipedia.org/wiki/Kansas_City,_Missouri"
+39,Colorado Springs, Colorado,"472,688","416,427",+13.51%,195.6 sq mi,"2,378/sq mi",38°52′02′′N 104°45′39′′W,"https://en.wikipedia.org/wiki/Colorado_Springs,_Colorado"
+40,Miami, Florida,"470,914","399,457",+17.89%,36.0 sq mi,"12,599/sq mi",25°46′31′′N 80°12′31′′W,https://en.wikipedia.org/wiki/Miami
+41,Raleigh, North Carolina,"469,298","403,892",+16.19%,145.1 sq mi,"3,163/sq mi",35°49′50′′N 78°38′30′′W,"https://en.wikipedia.org/wiki/Raleigh,_North_Carolina"
+42,Omaha, Nebraska,"468,262","408,958",+14.50%,133.2 sq mi,"3,356/sq mi",41°15′52′′N 96°02′42′′W,"https://en.wikipedia.org/wiki/Omaha,_Nebraska"
+43,Long Beach, California,"467,354","462,257",+1.10%,50.3 sq mi,"9,347/sq mi",33°48′33′′N 118°09′19′′W,"https://en.wikipedia.org/wiki/Long_Beach,_California"
+44,Virginia Beach, Virginia,"450,189","437,994",+2.78%,244.7 sq mi,"1,850/sq mi",36°46′48′′N 76°01′31′′W,"https://en.wikipedia.org/wiki/Virginia_Beach,_Virginia"
+45,Oakland, California,"429,082","390,724",+9.82%,55.9 sq mi,"7,514/sq mi",37°46′11′′N 122°13′33′′W,"https://en.wikipedia.org/wiki/Oakland,_California"
+46,Minneapolis, Minnesota,"425,403","382,578",+11.19%,54.0 sq mi,"7,660/sq mi",44°57′48′′N 93°16′06′′W,https://en.wikipedia.org/wiki/Minneapolis
+47,Tulsa, Oklahoma,"400,669","391,906",+2.24%,196.8 sq mi,"2,048/sq mi",36°07′40′′N 95°54′08′′W,"https://en.wikipedia.org/wiki/Tulsa,_Oklahoma"
+48,Arlington, Texas,"398,112","365,438",+8.94%,95.8 sq mi,"4,100/sq mi",32°42′03′′N 97°07′29′′W,"https://en.wikipedia.org/wiki/Arlington,_Texas"
+49,Tampa, Florida,"392,890","335,709",+17.03%,113.4 sq mi,"3,326/sq mi",27°58′12′′N 82°28′47′′W,"https://en.wikipedia.org/wiki/Tampa,_Florida"
+50,New Orleans, Louisiana,"391,006","343,829",+13.72%,169.4 sq mi,"2,311/sq mi",30°03′12′′N 89°56′04′′W,https://en.wikipedia.org/wiki/New_Orleans
+51,Wichita, Kansas,"389,255","382,368",+1.80%,160.4 sq mi,"2,431/sq mi",37°41′27′′N 97°20′45′′W,"https://en.wikipedia.org/wiki/Wichita,_Kansas"
+52,Cleveland, Ohio,"383,793","396,815",−3.28%,77.7 sq mi,"4,965/sq mi",41°28′43′′N 81°40′46′′W,https://en.wikipedia.org/wiki/Cleveland
+53,Bakersfield, California,"383,579","347,483",+10.39%,148.8 sq mi,"2,529/sq mi",35°19′16′′N 119°01′06′′W,"https://en.wikipedia.org/wiki/Bakersfield,_California"
+54,Aurora, Colorado,"374,114","325,078",+15.08%,153.5 sq mi,"2,356/sq mi",39°41′17′′N 104°41′23′′W,"https://en.wikipedia.org/wiki/Aurora,_Colorado"
+55,Anaheim, California,"352,005","336,265",+4.68%,50.0 sq mi,"7,021/sq mi",33°51′20′′N 117°45′36′′W,"https://en.wikipedia.org/wiki/Anaheim,_California"
+56,Honolulu, Hawaii,"347,397","337,256",+3.01%,60.5 sq mi,"5,815/sq mi",21°19′27′′N 157°50′51′′W,https://en.wikipedia.org/wiki/Honolulu
+57,Santa Ana, California,"332,725","324,528",+2.53%,27.1 sq mi,"12,333/sq mi",33°44′11′′N 117°52′59′′W,"https://en.wikipedia.org/wiki/Santa_Ana,_California"
+58,Riverside, California,"330,063","303,871",+8.62%,81.2 sq mi,"3,999/sq mi",33°56′17′′N 117°23′36′′W,"https://en.wikipedia.org/wiki/Riverside,_California"
+59,Corpus Christi, Texas,"326,554","305,215",+6.99%,174.6 sq mi,"1,866/sq mi",27°45′15′′N 97°10′24′′W,"https://en.wikipedia.org/wiki/Corpus_Christi,_Texas"
+60,Lexington, Kentucky,"323,780","295,803",+9.46%,283.6 sq mi,"1,123/sq mi",38°02′27′′N 84°27′30′′W,"https://en.wikipedia.org/wiki/Lexington,_Kentucky"
+61,Stockton, California,"311,178","291,707",+6.67%,61.7 sq mi,"4,977/sq mi",37°58′35′′N 121°18′48′′W,"https://en.wikipedia.org/wiki/Stockton,_California"
+62,Henderson, Nevada,"310,390","257,729",+20.43%,104.7 sq mi,"2,798/sq mi",36°00′35′′N 115°02′09′′W,"https://en.wikipedia.org/wiki/Henderson,_Nevada"
+63,Saint Paul, Minnesota,"307,695","285,068",+7.94%,52.0 sq mi,"5,815/sq mi",44°56′56′′N 93°06′15′′W,"https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota"
+64,St. Louis, Missouri,"302,838","319,294",−5.15%,62.0 sq mi,"5,023/sq mi",38°38′09′′N 90°14′41′′W,https://en.wikipedia.org/wiki/St._Louis
+65,Cincinnati, Ohio,"302,605","296,943",+1.91%,77.4 sq mi,"3,860/sq mi",39°08′25′′N 84°30′21′′W,https://en.wikipedia.org/wiki/Cincinnati
+66,Pittsburgh, Pennsylvania,"301,048","305,704",−1.52%,55.4 sq mi,"5,481/sq mi",40°26′23′′N 79°58′36′′W,https://en.wikipedia.org/wiki/Pittsburgh
+67,Greensboro, North Carolina,"294,722","269,666",+9.29%,128.3 sq mi,"2,237/sq mi",36°05′42′′N 79°49′37′′W,"https://en.wikipedia.org/wiki/Greensboro,_North_Carolina"
+68,Anchorage, Alaska,"291,538","291,826",−0.10%,"1,706.6 sq mi",175/sq mi,61°10′27′′N 149°17′03′′W,"https://en.wikipedia.org/wiki/Anchorage,_Alaska"
+69,Plano, Texas,"288,061","259,841",+10.86%,71.7 sq mi,"3,990/sq mi",33°03′03′′N 96°44′52′′W,"https://en.wikipedia.org/wiki/Plano,_Texas"
+70,Lincoln, Nebraska,"287,401","258,379",+11.23%,92.1 sq mi,"3,044/sq mi",40°48′38′′N 96°40′49′′W,"https://en.wikipedia.org/wiki/Lincoln,_Nebraska"
+71,Orlando, Florida,"285,713","238,300",+19.90%,105.2 sq mi,"2,635/sq mi",28°25′00′′N 81°16′25′′W,"https://en.wikipedia.org/wiki/Orlando,_Florida"
+72,Irvine, California,"282,572","212,375",+33.05%,65.6 sq mi,"4,057/sq mi",33°40′42′′N 117°46′17′′W,"https://en.wikipedia.org/wiki/Irvine,_California"
+73,Newark, New Jersey,"282,090","277,140",+1.79%,24.1 sq mi,"11,691/sq mi",40°43′27′′N 74°10′21′′W,"https://en.wikipedia.org/wiki/Newark,_New_Jersey"
+74,Toledo, Ohio,"274,975","287,208",−4.26%,80.7 sq mi,"3,451/sq mi",41°39′51′′N 83°34′55′′W,"https://en.wikipedia.org/wiki/Toledo,_Ohio"
+75,Durham, North Carolina,"274,291","228,330",+20.13%,109.8 sq mi,"2,395/sq mi",35°58′52′′N 78°54′10′′W,"https://en.wikipedia.org/wiki/Durham,_North_Carolina"
+76,Chula Vista, California,"271,651","243,916",+11.37%,49.6 sq mi,"5,387/sq mi",32°37′40′′N 117°00′55′′W,"https://en.wikipedia.org/wiki/Chula_Vista,_California"
+77,Fort Wayne, Indiana,"267,633","253,691",+5.50%,110.6 sq mi,"2,391/sq mi",41°05′18′′N 85°08′38′′W,"https://en.wikipedia.org/wiki/Fort_Wayne,_Indiana"
+78,Jersey City, New Jersey,"265,549","247,597",+7.25%,14.8 sq mi,"17,848/sq mi",40°42′41′′N 74°03′53′′W,"https://en.wikipedia.org/wiki/Jersey_City,_New_Jersey"
+79,St. Petersburg, Florida,"265,098","244,769",+8.31%,61.8 sq mi,"4,223/sq mi",27°45′43′′N 82°38′39′′W,"https://en.wikipedia.org/wiki/St._Petersburg,_Florida"
+80,Laredo, Texas,"261,639","236,091",+10.82%,101.1 sq mi,"2,544/sq mi",27°33′37′′N 99°29′21′′W,"https://en.wikipedia.org/wiki/Laredo,_Texas"
+81,Madison, Wisconsin,"258,054","233,209",+10.65%,77.0 sq mi,"3,280/sq mi",43°05′16′′N 89°25′48′′W,"https://en.wikipedia.org/wiki/Madison,_Wisconsin"
+82,Chandler, Arizona,"257,165","236,123",+8.91%,64.9 sq mi,"3,813/sq mi",33°16′58′′N 111°51′18′′W,"https://en.wikipedia.org/wiki/Chandler,_Arizona"
+83,Buffalo, New York,"256,304","261,310",−1.92%,40.4 sq mi,"6,359/sq mi",42°53′33′′N 78°51′35′′W,"https://en.wikipedia.org/wiki/Buffalo,_New_York"
+84,Lubbock, Texas,"255,885","229,573",+11.46%,124.6 sq mi,"2,027/sq mi",33°33′56′′N 101°53′12′′W,"https://en.wikipedia.org/wiki/Lubbock,_Texas"
+85,Scottsdale, Arizona,"255,310","217,385",+17.45%,183.9 sq mi,"1,341/sq mi",33°41′03′′N 111°51′40′′W,"https://en.wikipedia.org/wiki/Scottsdale,_Arizona"
+86,Reno, Nevada,"250,998","225,221",+11.45%,107.3 sq mi,"2,286/sq mi",39°32′57′′N 119°51′00′′W,"https://en.wikipedia.org/wiki/Reno,_Nevada"
+87,Glendale, Arizona,"250,702","226,721",+10.58%,59.1 sq mi,"4,161/sq mi",33°31′59′′N 112°11′24′′W,"https://en.wikipedia.org/wiki/Glendale,_Arizona"
+88,Gilbert, Arizona,"248,279","208,453",+19.11%,68.0 sq mi,"3,487/sq mi",33°18′37′′N 111°44′35′′W,"https://en.wikipedia.org/wiki/Gilbert,_Arizona"
+89,Winston–Salem, North Carolina,"246,328","229,617",+7.28%,132.5 sq mi,"1,828/sq mi",36°06′10′′N 80°15′40′′W,"https://en.wikipedia.org/wiki/Winston%E2%80%93Salem,_North_Carolina"
+90,North Las Vegas, Nevada,"245,949","216,961",+13.36%,98.0 sq mi,"2,436/sq mi",36°17′09′′N 115°05′38′′W,"https://en.wikipedia.org/wiki/North_Las_Vegas,_Nevada"
+91,Norfolk, Virginia,"244,076","242,803",+0.52%,53.3 sq mi,"4,599/sq mi",36°55′23′′N 76°14′41′′W,"https://en.wikipedia.org/wiki/Norfolk,_Virginia"
+92,Chesapeake, Virginia,"242,634","222,209",+9.19%,338.5 sq mi,703/sq mi,36°40′46′′N 76°18′06′′W,"https://en.wikipedia.org/wiki/Chesapeake,_Virginia"
+93,Garland, Texas,"242,507","226,876",+6.89%,57.0 sq mi,"4,122/sq mi",32°54′35′′N 96°37′49′′W,"https://en.wikipedia.org/wiki/Garland,_Texas"
+94,Irving, Texas,"242,242","216,290",+12.00%,67.0 sq mi,"3,557/sq mi",32°51′28′′N 96°58′12′′W,"https://en.wikipedia.org/wiki/Irving,_Texas"
+95,Hialeah, Florida,"238,942","224,669",+6.35%,21.5 sq mi,"10,995/sq mi",25°52′12′′N 80°18′10′′W,"https://en.wikipedia.org/wiki/Hialeah,_Florida"
+96,Fremont, California,"237,807","214,089",+11.08%,77.5 sq mi,"3,008/sq mi",37°29′40′′N 121°56′28′′W,"https://en.wikipedia.org/wiki/Fremont,_California"
+97,Boise, Idaho,"228,790","205,671",+11.24%,82.1 sq mi,"2,718/sq mi",43°36′01′′N 116°13′54′′W,"https://en.wikipedia.org/wiki/Boise,_Idaho"
+98,Richmond, Virginia,"228,783","204,214",+12.03%,59.8 sq mi,"3,732/sq mi",37°31′53′′N 77°28′34′′W,"https://en.wikipedia.org/wiki/Richmond,_Virginia"
+99,Baton Rouge, Louisiana,"221,599","229,493",−3.44%,85.9 sq mi,"2,651/sq mi",30°26′32′′N 91°07′51′′W,"https://en.wikipedia.org/wiki/Baton_Rouge,_Louisiana"
+100,Spokane, Washington,"219,190","208,916",+4.92%,68.7 sq mi,"3,144/sq mi",47°40′01′′N 117°26′00′′W,"https://en.wikipedia.org/wiki/Spokane,_Washington"
