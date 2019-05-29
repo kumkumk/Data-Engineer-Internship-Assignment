@@ -5,7 +5,9 @@ This project is about collecting data about top cities of United States from Wik
 There are 2 py scripts : wiki-scrape.py and nyt.py:
 
 1.wiki-scrape.py contains the code for scraping data about top cities from Wikipedia
+
 2.nyt.py contains code to collect data about US cities from NYT search API responses in JSON
+
 3.Output : collected data is written to  csv files ready to be uploaded to BigQuery table
 
 ### Wikipedia Web Scraping
