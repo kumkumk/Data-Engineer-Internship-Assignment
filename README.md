@@ -20,5 +20,7 @@ Used NYT search API to fetch furthur information about Cities in USA
 There were 2 kinds of searches done :
 1. search for a keyword eg."crime" and look for glocations i.e geolocations of returned articles and then find the top cities/locations in terms of the articles count. CSV format is City_Name, Count
 2. search for a given city and find the top category of news articles published about that City. For now I have given state names as a list of geolocations ['ARIZONA','CALIFORNIA']. the results in the form of a dictionary with key as the news type and value as article count eg.{"Sports":490 }  After processing CSV format is State_Name,list of top issues
-
+### Sample Output CSV files
+Source - Wiki : top 100 cities by population.csv and San Jose.csv, Seattle.csv etc containing individual city information
+Source - NYT : top issues for given city.csv and shooting.csv
 
